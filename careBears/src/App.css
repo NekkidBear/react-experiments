@@ -1,0 +1,23 @@
+/* Care Bears Colors */
+.bedtime-bear { color: #7FFFD4; }
+.birthday-bear { color: #FFD700; }
+.cheer-bear { color: #FFB6C1; }
+.friend-bear { color: #FFDAB9; }
+.funshine-bear { color: #FFFF00; }
+.good-luck-bear { color: #00FF00; }
+.grumpy-bear { color: #4B0082; }
+.love-a-lot-bear { color: #FF69B4; }
+.tenderheart-bear { color: #A0522D; }
+.wish-bear { color: #AFEEEE; }
+
+/* Care Bears Emoji Logos */
+.bedtime-bear-logo::before { content: "🌙"; }
+.birthday-bear-logo::before { content: "🎂"; }
+.cheer-bear-logo::before { content: "🌈"; }
+.friend-bear-logo::before { content: "💐"; }
+.funshine-bear-logo::before { content: "☀️"; }
+.good-luck-bear-logo::before { content: "☘️"; }
+.grumpy-bear-logo::before { content: "☁️"; }
+.love-a-lot-bear-logo::before { content: "❤️"; }
+.tenderheart-bear-logo::before { content: "❤️"; }
+.wish-bear-logo::before { content: "🌟"; }
