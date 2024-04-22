@@ -1,14 +1,13 @@
 import React from 'react';
-import './CareBears.css';
+import './App.css';
 
 const CareBear = ({ name }) => {
   const bearName = name.toLowerCase().replace(/ /g, '-');
-  const bearLogoClass = `${bearName}-logo`;
 
   return (
     <div>
-      <span className={`${bearName}-bear-logo`}></span>
-      <span className={`${bearName}-bear`}>My name is {name}. I</span>
+      <span className={`${bearName}-logo`}></span>
+      <span className={bearName}>My name is {name}.</span>
     </div>
   );
 };

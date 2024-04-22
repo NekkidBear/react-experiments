@@ -21,3 +21,7 @@
 .love-a-lot-bear-logo::before { content: "❤️"; }
 .tenderheart-bear-logo::before { content: "❤️"; }
 .wish-bear-logo::before { content: "🌟"; }
+
+body {
+  background-color: #808080;
+}
